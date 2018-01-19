@@ -1,0 +1,12 @@
+.container{
+  margin:auto;
+  text-align: center;
+  width: 650px;
+  font-family: Helvetica Neue;
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  background-color: lightcoral;
+}
